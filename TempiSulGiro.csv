@@ -1,0 +1,21 @@
+﻿Tracciato,Tempo sul Giro (min:sec),Numero Curve,Lunghezza Circuito (m),Velocità Massima (km/h),Velocità Media (km/h),Velocità Minima (km/h),Pendenza Massima del Circuito (%),Numero di Curve a Sinistra,Numero di Curve a Destra,Numero di Rettilinei,Lunghezza del Rettilineo più Lungo (m),Complessità del Circuito
+Monza,1:20.100,11,5793,340,220,80,6,5,6,3,1500,0.0019
+Spa-Francorchamps,1:42.456,19,7004,330,200,90,5.5,7,8,4,1800,0.0027
+Silverstone,1:29.345,18,5891,320,210,85,7,6,7,3,1600,0.0031
+Nürburgring Nordschleife,6:25.456,154,20832,290,180,70,11,80,70,20,4000,0.0074
+Circuit de Monaco,1:15.678,19,3340,280,190,75,8,7,6,5,1200,0.0057
+Imola,1:18.923,17,4932,315,195,78,9,6,7,4,1500,0.0034
+Circuit of the Americas,1:32.109,20,5513,330,200,80,6.5,7,8,3,1700,0.0036
+Hockenheimring,1:14.890,17,4574,310,190,75,8.5,6,7,4,1300,0.0037
+Autódromo José Carlos Pace (Interlagos),1:25.790,15,4309,300,185,70,9,5,7,4,1400,0.0035
+Suzuka Circuit,1:27.300,18,5807,325,205,82,7.5,6,8,4,1600,0.0031
+Circuit de Barcelona-Catalunya,1:18.543,16,4655,315,190,75,8.8,6,6,5,1400,0.0034
+Brands Hatch,1:10.234,12,3916,295,180,70,9.2,5,5,7,1100,0.0031
+Circuit Gilles Villeneuve,1:19.876,14,4361,305,195,75,7.8,6,6,6,1300,0.0032
+Sochi Autodrom,1:33.789,18,5848,315,200,80,7.2,7,7,4,1700,0.0029
+Shanghai International Circuit,1:31.234,16,5451,320,195,78,8.2,6,7,4,1500,0.0030
+Baku City Circuit,1:38.098,20,6003,335,205,82,7.5,7,8,3,1800,0.0033
+Hungaroring,1:16.765,14,4381,310,190,75,8.5,6,6,5,1400,0.0032
+Circuit Ricardo Tormo,1:10.890,14,4005,295,180,70,9.1,5,6,6,1200,0.0035
+Marina Bay Street Circuit,1:44.567,23,5065,305,195,75,7.9,8,7,5,1600,0.0045
+Albert Park Circuit,1:22.567,16,5303,325,200,80,6.8,6,6,4,1800,0.0030
